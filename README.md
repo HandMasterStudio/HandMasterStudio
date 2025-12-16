@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**HandMasterStudio/HandMasterStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##About Me:)
+My name is **Hady**, my fav lang is c++.
 
 - 🔭 I’m currently working on my project penguin
 - 🌱 I’m currently learning c++
