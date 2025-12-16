@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-##About Me:)
+## About Me:)
 My name is **Hady**, my fav lang is c++.
 
 - 🔭 I’m currently working on my project penguin
